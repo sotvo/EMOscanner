@@ -14,7 +14,7 @@ https://github.com/gkaguirrelab/transparentTrack -непроверенно
 conda create -c anaconda -n /env-name/ python=3.6 
 
 2. Активировать среду  
-activate /env-name/
+conda activate /env-name/
 
 3. Установить основные пакеты  
 numpy==1.17.4  
