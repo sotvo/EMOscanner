@@ -11,10 +11,10 @@ https://github.com/gkaguirrelab/transparentTrack -непроверенно
 ### Инструкция
 
 1. Создать виртуальную среду с python=3.6  
-conda create -c anaconda -n <env-name> python=3.6 
+conda create -c anaconda -n /env-name/ python=3.6 
 
 2. Активировать среду  
-activate <env-name>  
+activate /env-name/
 
 3. Установить основные пакеты  
 numpy==1.17.4  
