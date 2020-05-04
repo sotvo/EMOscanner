@@ -17,9 +17,9 @@ conda create -c anaconda -n /env-name/ python=3.6
 conda activate /env-name/
 
 3. Установить основные пакеты  
-numpy
-opencv-python
-tensorflow  
+numpy  
+opencv-python  
+tensorflow    
 keras  
 ktrain
 
