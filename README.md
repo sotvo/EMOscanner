@@ -8,7 +8,7 @@ https://github.com/antoinelame/GazeTracking  -непроверено
 https://github.com/gkaguirrelab/transparentTrack -непроверенно
 
 ## Определение эмоций и движений глаз
-### Инструкция
+### Инструкция по установке через Anaconda
 
 1. Создать виртуальную среду с python=3.6  
 conda create -c anaconda -n /env-name/ python=3.6 
